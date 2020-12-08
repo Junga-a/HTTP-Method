@@ -1,4 +1,4 @@
-package com.example.study.controller;
+package com.example.study.Model;
 
 public class SearchParam {
 
