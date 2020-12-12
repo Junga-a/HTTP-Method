@@ -1,6 +1,7 @@
 package com.example.study.controller;
 
 
+import com.example.study.Model.SearchParam;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

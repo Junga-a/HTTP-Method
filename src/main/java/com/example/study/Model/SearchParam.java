@@ -1,4 +1,4 @@
-package com.example.study.controller;
+package com.example.study.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
